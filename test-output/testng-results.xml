@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T13:12:19 GST" name="Default suite" finished-at="2024-08-13T13:12:37 GST" duration-ms="18780">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T13:12:19 GST" name="Default test" finished-at="2024-08-13T13:12:37 GST" duration-ms="18780">
+      <class name="Testing.TestMethodClass.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testing.TestMethodClass.LoginTest@17f62e33]" started-at="2024-08-13T13:12:19 GST" name="setUp" finished-at="2024-08-13T13:12:33 GST" duration-ms="14751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:1, instance:Testing.TestMethodClass.LoginTest@17f62e33]" started-at="2024-08-13T13:12:33 GST" name="testLogin" finished-at="2024-08-13T13:12:35 GST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="dashbordlogin()[pri:2, instance:Testing.TestMethodClass.LoginTest@17f62e33]" started-at="2024-08-13T13:12:35 GST" name="dashbordlogin" finished-at="2024-08-13T13:12:37 GST" duration-ms="1741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashbordlogin -->
+        <test-method signature="AdminSearch()[pri:3, instance:Testing.TestMethodClass.LoginTest@17f62e33]" started-at="2024-08-13T13:12:37 GST" name="AdminSearch" finished-at="2024-08-13T13:12:37 GST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testing.TestMethodClass.LoginTest@17f62e33]" started-at="2024-08-13T13:12:37 GST" name="tearDown" finished-at="2024-08-13T13:12:37 GST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testing.TestMethodClass.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
