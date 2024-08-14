@@ -11,6 +11,12 @@ public class gitTest {
 			System.out.println("this is git test");
 			System.out.println("git");
 		}
+		
+		@Test
+		public void gitTest2() {
+			System.out.println("this is 3rd round");
+			System.out.println("git");
+		}
 	
 
 }
