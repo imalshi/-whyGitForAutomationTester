@@ -21,6 +21,7 @@ public class AdminPage {
 	public WebElement txtbox;
 	
 	
+	
 	//Action methods
 	public void setUsername(String uName) {
 		

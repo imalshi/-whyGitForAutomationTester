@@ -69,10 +69,12 @@ public class LoginTest {
 	
 	
 	
+	
+	
 	@AfterClass
 	public void tearDown() {
 		
-		//driver.quit();
+		driver.quit();
 		
 	}
 	
